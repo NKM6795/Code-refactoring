@@ -1,0 +1,9 @@
+SinglyNode - node in singly linked list
+SinglyLinked - singly linked list
+Button - taken from another project, not used in code
+Board - board 8 * 8 for chess, with figure
+FiguresMoving - checking and moving figures
+DrawBoard - graphic elements for drawing boards and figures
+Cell - cell with figure
+Figure - figure
+ColorFigures - figure color
